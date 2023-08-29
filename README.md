@@ -1,4 +1,5 @@
 # RL Project
+Final Project of Reinforcement Learning
 
 ### 1. Environment : Mujuco
 ||Ant-v4|HalfCheetah-v4|
@@ -56,3 +57,8 @@
 
 - Observation nomalization improved performance of Ant-v4, but reduced performence of HalfCheetah-v4
   <br>&rarr; Observation normalization can reduce performance when the observation space is small
+
+<br>
+
+#### Reference
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/pdf/2006.05990.pdf)
